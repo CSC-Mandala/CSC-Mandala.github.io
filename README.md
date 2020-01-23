@@ -21,5 +21,7 @@ This will direct you to a login page which gives you the option of logging in wi
 
 If your login was successful, you should see a welcome message like this one in the top right-hand corner: <img src="/images/Screen Shot 2020-01-23 at 1.27.47 PM.png" alt="Mandala login welcome message" width="200" height="150">
 
-### Getting started
+### Accessing our workshop collection
 Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala OER Workshop</a>. 
+
+## Getting Started
