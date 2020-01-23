@@ -1,4 +1,4 @@
-# Mandala Workshop
+# Mandala for OER Workshop
 
 Mandala is a platform of interconnected digital applications that supports you in creating, managing, and sharing diverse scholarly content for research and learning. It was developed by SHANTI, now integrated into the Contemplative Sciences Center (CSC), is funded by the Vice President for Information Technology, and will be supported by UVA Library. Currently, is is only available to UVA faculty, staff, and students. 
 
@@ -22,7 +22,7 @@ This will direct you to a login page which gives you the option of logging in wi
 If your login was successful, you should see a welcome message like this one in the top right-hand corner: <img src="/images/Screen Shot 2020-01-23 at 1.27.47 PM.png" alt="Mandala login welcome message" width="200" height="150">
 
 ### Accessing our workshop collection
-Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala OER Workshop</a>. 
+Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala for OER Workshop</a>. 
 
 ## Getting Started
 
@@ -31,5 +31,5 @@ Once you've logged in and generated your Mandala account, we will use your compu
 <li><a href="https://opencontent.org/blog/archives/2975">"What is Open Pedagogy?" by David Riley</a></li>
 <li><a href="https://hybridpedagogy.org/why-open-educational-resources-oers-are-important-for-critical-pedagogues/"> "Why OERs are Important for Critical Pedagogues" by Gregory Zobel</a></li>
 <li><a href="https://www.oercommons.org/oer">OER Commons</a></li>
-<li><a href="https://hybridpedagogy.org/access/">"Access," *HybridPod* episode featuring Robin DeRosa</a></li>
+<li><a href="https://hybridpedagogy.org/access/">"Access" <em>HybridPod</em> episode featuring Robin DeRosa</a></li>
   </ul>
