@@ -1,6 +1,6 @@
 # Mandala Workshop
 
-Mandala is a platform of interconnected digital applications that supports you in creating, managing, and sharing diverse scholarly content for research and learning. It was been developed by SHANTI, now integrated into the Contemplative Sciences Center (CSC), and is funded by the Vice President for Information Technology and will be supported by UVA Library. Currently, is is only available to UVA faculty, staff, and students. 
+Mandala is a platform of interconnected digital applications that supports you in creating, managing, and sharing diverse scholarly content for research and learning. It was developed by SHANTI, now integrated into the Contemplative Sciences Center (CSC), is funded by the Vice President for Information Technology, and will be supported by UVA Library. Currently, is is only available to UVA faculty, staff, and students. 
 
 Mandala manages content via collections and subcollections which house assets of a single media type (Text, Image, AV, Visual, or bibliographic Source). 
 
