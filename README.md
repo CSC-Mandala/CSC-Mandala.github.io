@@ -25,3 +25,5 @@ If your login was successful, you should see a welcome message like this one in 
 Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala OER Workshop</a>. 
 
 ## Getting Started
+
+## Additional Resources
