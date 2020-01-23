@@ -27,3 +27,9 @@ Once you've logged in and generated your Mandala account, we will use your compu
 ## Getting Started
 
 ## Additional Resources
+<ul>
+<li><a href="https://opencontent.org/blog/archives/2975">"What is Open Pedagogy?" by David Riley</a></li>
+<li><a href="https://hybridpedagogy.org/why-open-educational-resources-oers-are-important-for-critical-pedagogues/"> "Why OERs are Important for Critical Pedagogues" by Gregory Zobel</a></li>
+<li><a href="https://www.oercommons.org/oer">OER Commons</a></li>
+<li><a href="https://hybridpedagogy.org/access/">"Access," *HybridPod* episode featuring Robin DeRosa</a></li>
+  </ul>
