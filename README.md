@@ -19,14 +19,19 @@ This will direct you to a login page which gives you the option of logging in wi
 
 >*Note: if you do not complete this step, we will be unable to add you to the collections we will be working on in the hands-on portion of this workshop.*
 
-If your login was successful, you should see a welcome message like this one in the top right-hand corner: <img src="/images/Screen Shot 2020-01-23 at 1.27.47 PM.png" alt="Mandala login welcome message" width="200" height="150">
+If your login was successful, you should see a welcome message like this one in the top right-hand corner: 
+<img src="/images/Screen Shot 2020-01-23 at 1.27.47 PM.png" alt="Mandala login welcome message" width="200" height="150">
 
 ### Accessing our workshop collection
-Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala for OER Workshop</a>. 
+Once you've logged in and generated your Mandala account, we will use your computing ID to add you to our workshop collection, <a href="https://texts.shanti.virginia.edu/collection/mandala-oer-workshop">Mandala for OER Workshop</a>. You may need to wait a few minutes and refresh the page in order to access the collection once you've been added as a member.
 
-## Getting Started
+## Getting started
 
-## Additional Resources
+### Creating a subcollection
+### Creating a text
+### Adding media and other resources to your text
+
+## Additional resources
 <ul>
 <li><a href="https://opencontent.org/blog/archives/2975">"What is Open Pedagogy?" by David Riley</a></li>
 <li><a href="https://hybridpedagogy.org/why-open-educational-resources-oers-are-important-for-critical-pedagogues/"> "Why OERs are Important for Critical Pedagogues" by Gregory Zobel</a></li>
